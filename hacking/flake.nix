@@ -111,7 +111,6 @@
           zap
         ];
         shellHook = ''
-          exec zsh
         '';
       };
   };
