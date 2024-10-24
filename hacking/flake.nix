@@ -65,7 +65,7 @@
           ### Passwords ###
           brutespray
           chntpw
-          crowbar
+          # crowbar
           crunch
           hashcat
           hcxtools
@@ -81,7 +81,8 @@
           jd-cli
           patchelf
           radare2
-          radare2-cutter
+          # radare2-cutter
+          burpsuite
           retdec
           snowman
           valgrind
@@ -95,6 +96,9 @@
           sipp
           sniffglue
 
+          pwntools
+          python312
+          python312Packages.pwntools
           ### Vuln analisys ###
           grype
           lynis
