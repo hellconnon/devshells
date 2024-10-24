@@ -32,6 +32,8 @@
           python312Packages.scikit-learn
           python312Packages.jupyter
           stablePkgs.python312Packages.cartopy
+          vscode
+          # vscode-fhs
         ];
         shellHook = ''
           exec zsh
